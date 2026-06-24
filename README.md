@@ -34,6 +34,9 @@ This repository contains a collection of Python projects developed to strengthen
 * Performs arithmetic operations.
 * Demonstrates functions and user input handling.
 
+# Technologies used
+* vs code.
+
 ## Skills Demonstrated
 
 * Python Programming
